@@ -1,84 +1,84 @@
-# Project Title
+# 项目名称
 Scan
 
-## Introduction
-Scan is a powerful and efficient tool designed for [specific purpose]. This project enables users to [describe what the project does]. 
+## 项目简介
+Scan 是一款强大高效的网络安全工具，旨在帮助用户进行信息收集、扫描与渗透测试。
 
-## Features
-- Feature 1: [description of feature 1]
-- Feature 2: [description of feature 2]
-- Feature 3: [description of feature 3]
+## 功能特色
+- 功能 1：[详细描述功能1]
+- 功能 2：[详细描述功能2]
+- 功能 3：[详细描述功能3]
 
-## Installation Requirements
-- Operating System: 
-  - Linux (Kali Linux, Ubuntu)
-  - Termux (for Android)
-- Software Requirements: 
-  - [List any necessary programming languages or libraries]
+## 安装要求
+- 操作系统：
+  - Linux（Kali Linux、Ubuntu）
+  - Termux（Android 平台）
+- 软件依赖：
+  - [请列出必要的编程语言或库]
 
-## Installation Steps
-### For Kali Linux and Ubuntu
-1. Update your package list:
+## 安装步骤
+### Kali Linux 和 Ubuntu
+1. 更新软件包列表：
    ```bash
    sudo apt update
    ```
-2. Install [required packages]  
+2. 安装[所需依赖]：
    ```bash
    sudo apt install [package_name]
    ```
-3. Clone the repository:  
+3. 克隆仓库：
    ```bash
    git clone https://github.com/huocai250/Scan.git
    ```
-4. Navigate to the project directory:  
+4. 进入项目目录：
    ```bash
    cd Scan
    ```
-5. Run the application:  
+5. 运行应用程序：
    ```bash
    python main.py
    ```
 
-### For Termux
-1. Update your package list:
+### Termux（Android 平台）
+1. 更新软件包列表：
    ```bash
    pkg update
    ```
-2. Install [required packages]  
+2. 安装[所需依赖]：
    ```bash
    pkg install [package_name]
    ```
-3. Clone the repository:  
+3. 克隆仓库：
    ```bash
    git clone https://github.com/huocai250/Scan.git
    ```
-4. Navigate to the project directory:
+4. 进入项目目录：
    ```bash
    cd Scan
    ```
-5. Run the application:
+5. 运行应用程序：
    ```bash
    python main.py
    ```
 
-## Usage Guide
-- To start the application, run the command [include usage command].
+## 使用指南
+- 启动应用，请运行 [填写实际启动命令]。
 
-## Important Warnings and Tips
-- Important warning 1: [Details]
-- Important warning 2: [Details]
+## 重要提示与建议
+- 警告事项1：[详细说明]
+- 警告事项2：[详细说明]
 
-## Log Recording Features
-- The application logs activity to [describe log storage/format]
+## 日志记录功能
+- 本程序会将活动记录到 [描述日志存储/格式]
 
-## Developer Information
-- Developer: huocai250  
-- Contact: [your_email@example.com]  
+## 开发者信息
+- 开发者: huocai250  
+- 联系方式: [your_email@example.com]  
 
-## Related Resources
-- [Link to documentation]
-- [Link to GitHub repository]
+## 相关资源
+- [文档链接]
+- [GitHub 仓库链接]
 
-## Version Information
-- Current version: 1.0.0
-- Release date: 2026-04-28
+## 版本信息
+- 当前版本: 1.0.0
+- 发布时间: 2026-04-28
