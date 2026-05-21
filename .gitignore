@@ -1,0 +1,7 @@
+# 忽略文件
+*.log
+*.apk
+*.exe
+temp.rc
+__pycache__/
+.DS_Store
